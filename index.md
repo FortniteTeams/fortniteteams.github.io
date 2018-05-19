@@ -2,7 +2,7 @@
 
 Ever wanted a decent teammate to play duos with? Or are you getting bored of playing with the same people? Whatever the case, you have come to the right place!FortniteTeams is one of the only team finding websites for Fortnite. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Be sure to join our Discord server to speak to your new teammates!
 
 ### Markdown
 
